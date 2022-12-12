@@ -30,7 +30,7 @@ Pyinstaller -F -i ICONAME.ico FILENAME.py
 
 *Creating worlds and characters*
 
-*With my imagination and my wits.  *
+*With my imagination and my wits.*  
 <br>
 
 *The game may be simple and unrefined*
